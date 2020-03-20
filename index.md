@@ -1,3 +1,7 @@
+# 教育背景
+清华大学
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/HollisChen/HollisChen.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
