@@ -1,7 +1,7 @@
 # Welcome to My Personal Page
 
 # 教育背景
-清华大学
+XX大学
 
 
 ## Welcome to GitHub Pages
