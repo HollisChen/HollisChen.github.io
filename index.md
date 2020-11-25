@@ -1,5 +1,12 @@
 # Welcome to My Personal Page
 
+<iframe src="./index.pdf" width="100%" height="100%">
+ 
+This browser does not support PDFs. Please download the PDF to view it: <a href="/index.pdf">Download PDF</a>
+ 
+</iframe>
+
+
 # 教育背景
 XX大学 XX系
 
